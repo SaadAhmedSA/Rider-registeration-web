@@ -23,7 +23,7 @@ const Home = () => {
     <button className='btn btn-white'><Link to="/login">login</Link></button>
     </div>
     <div className='flex justify-center flex-col gap-5 items-center h-[90vh]'>
-        <h1 className='text-5xl font-semibold'>Welcome to Bykea Registeration App.</h1>
+        <h1 className='text-5xl font-semibold'>Welcome to Indrive Registeration App.</h1>
         <h1 className='text-3xl font-semibold'>Login first For Register yourself!</h1>
     </div>
         </>
